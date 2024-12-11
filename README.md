@@ -8,7 +8,7 @@ Models in HuggingFace : https://huggingface.co/Mohamedal
 - Fine-tuning of the Mistral-7B model for dialogue summarization and customer support.
 - Utilization of QLoRA for efficient training and reduced computational overhead.
 - Integration with Hugging Face's `transformers` and `datasets` libraries.
-- Customizable training pipeline for various dialogue datasets.
+- Customizable training pipeline for various dialogue dataset.
 
 ## Requirements
 
