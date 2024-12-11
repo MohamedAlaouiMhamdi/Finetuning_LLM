@@ -2,6 +2,7 @@
 
 This project demonstrates the fine-tuning of the Mistral-7B language model using QLoRA (Quantized Low-Rank Adaptation) to optimize the model for dialogue summarization and customer support tasks. By leveraging advanced parameter-efficient fine-tuning techniques, this project ensures high performance while maintaining resource efficiency.
 
+Models in HuggingFace : https://huggingface.co/Mohamedal
 ## Features
 
 - Fine-tuning of the Mistral-7B model for dialogue summarization and customer support.
